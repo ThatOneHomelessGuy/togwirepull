@@ -12,6 +12,7 @@ Wire pull plugin with editable pull selection and sounds.
 ## CVars:
 <details><summary>Click to View CVars</summary>
 <p>
+
 * **twp_sound_success** - Sound to be played upon successful wire pull.
 
 * **twp_sound_fail** - Sound to be played upon failed wire pull.
